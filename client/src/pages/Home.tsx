@@ -362,9 +362,7 @@ export default function Home() {
             <Button size="lg" variant="secondary">
               Send Email
             </Button>
-            {config.social.linkedin && (
-              
-            )}
+            
           </div>
         </div>
       </section>
