@@ -363,10 +363,7 @@ export default function Home() {
               Send Email
             </Button>
             {config.social.linkedin && (
-              <Button size="lg" variant="outline" className="border-primary-foreground text-primary-foreground hover:bg-primary-foreground/10">
-                <Linkedin className="w-4 h-4 mr-2" />
-                LinkedIn
-              </Button>
+              
             )}
           </div>
         </div>
